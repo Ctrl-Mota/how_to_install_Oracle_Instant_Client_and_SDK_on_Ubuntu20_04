@@ -1,0 +1,1 @@
+# how_to_install_Oracle_Instant_Client_and_SD_on_Ubuntu20_04
