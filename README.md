@@ -8,7 +8,7 @@ Download the Oracle Instant Client and SDK from Oracle website.
 
 [http://www.oracle.com/technetwork/topics/linuxx86-64soft-092277.html](http://www.oracle.com/technetwork/topics/linuxx86-64soft-092277.html)
 
-Files: `instantclient-basic-linux.x64-19.6.0..0dbru.zip` and `instantclient-sdk-linux.x64-19.6.0..0dbru.zip`.
+Files: `instantclient-basic-linux.x64-19.6.0.0.0dbru.zip` and `instantclient-sdk-linux.x64-19.6.0.0.0dbru.zip`.
 
 ### Step 2
 
