@@ -29,8 +29,8 @@ sudo mv ~/Downloads/instantclient-*.zip /opt/oracle/
 
 cd /opt/oracle
 
-unzip instantclient-basic-linux.x64-19.6.0..0dbru.zip
-unzip instantclient-sdk-linux.x64-19.6.0..0dbru.zip
+unzip instantclient-basic-linux.x64-19.6.0.0.0dbru.zip
+unzip instantclient-sdk-linux.x64-19.6.0.0.0dbru.zip
 ```
 
 ### Step 4
